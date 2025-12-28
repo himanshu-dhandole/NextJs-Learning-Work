@@ -12,6 +12,8 @@
     "@hookform/resolvers": "^5.2.2",
     "@react-email/components": "1.0.2",
     "axios": "^1.13.2",
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.3",
     "lucide-react": "^0.562.0",
     "mongoose": "^9.0.2",
     "next": "16.1.1",
@@ -33,7 +35,6 @@
     "eslint-config-next": "16.1.1",
     "react-email": "^5.1.0",
     "tailwindcss": "^4",
-    "typescript": "^5",
-    "email:dev": "email dev"
+    "typescript": "^5"
   }
 }
