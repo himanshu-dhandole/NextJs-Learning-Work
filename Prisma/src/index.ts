@@ -1,0 +1,1 @@
+console.log("Hello, Prisma with Next.js!");
